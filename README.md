@@ -9,7 +9,7 @@
 ---
 
 ## 🧭 About Me
-I am a **software developer and researcher** with a PhD in Physics, I specialize in developing high-performance data acquisition (DAQ) systems and FPGA-based solutions for complex experimental environments. I possess deep expertise in C++ and VHDL, having developed robust readout software, real-time processing algorithms, and custom GUIs using the Qt framework. My experience spans the full development life cycle, from system architecture and FPGA synthesis to database management and rigorous hardware integration. I am adept at implementing modern networking interfaces such as TCP/IP and Ethernet to ensure reliable data flow in large-scale distributed systems.
+I am a **software developer and researcher** with a PhD in Physics, I specialize in developing high-performance data acquisition (DAQ) systems and FPGA-based solutions for complex experimental environments. I possess deep expertise in C++, Python and VHDL, having developed robust readout software, real-time processing algorithms, and custom GUIs using the Qt framework. My experience spans the full development life cycle, from system architecture and FPGA synthesis to database management and rigorous hardware integration. I am adept at implementing modern networking interfaces such as TCP/IP and Ethernet to ensure reliable data flow in large-scale distributed systems.
 
 ---
 
