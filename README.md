@@ -31,14 +31,14 @@ I am a **software and hardware developer and researcher** with a PhD in Physics,
 - Automate hardware testing and data acquisition using Python-based frameworks.  
 - Collaborate with cross-disciplinary teams to deliver scalable, reliable FPGA solutions.  
 
-`` ---
-`` ##  List of My Geek Tutorials
-``### Data Analysis
-``- **pattern_calls** : C++ project for beginners to handle information about pattern calls (visit [pattern_calls](https://github.com/ahmedqamesh/pattern_calls))
-``- **farm_analysis** : Python scripts dedicated to conducting analysis and statistical calculations, such as p-values and correlation coefficients, on real data collected from a farm in 2021 (visit ``[farm_analysis](https://github.com/ahmedqamesh/farm_analysis)).
-``- **drug_analysis** : python  script helps in understanding drug interactions by reading data from an Excel file and processing it to find interactions between specified drugs (visit [drug_analysis]``(https://github.com/ahmedqamesh/drug_analysis)). 
-``### FPGA Development
-``---
+ ---
+ ##  List of My Geek Tutorials
+### Data Analysis
+- **pattern_calls** : C++ project for beginners to handle information about pattern calls (visit [pattern_calls](https://github.com/ahmedqamesh/pattern_calls))
+- **farm_analysis** : Python scripts dedicated to conducting analysis and statistical calculations, such as p-values and correlation coefficients, on real data collected from a farm in 2021 (visit `[farm_analysis](https://github.com/ahmedqamesh/farm_analysis)).
+- **drug_analysis** : python  script helps in understanding drug interactions by reading data from an Excel file and processing it to find interactions between specified drugs (visit [drug_analysis]``(https://github.com/ahmedqamesh/drug_analysis)). 
+  ### FPGA Development``
+---
 
 ``## 🌍 Let’s Connect
 
