@@ -31,6 +31,7 @@ I am a **software and hardware developer and researcher** with a PhD in Physics,
 - Automate hardware testing and data acquisition using Python-based frameworks.  
 - Collaborate with cross-disciplinary teams to deliver scalable, reliable FPGA solutions.  
 
+<!--
 ---
 ##  List of My Geek Tutorials
 ### Data Analysis
@@ -41,7 +42,7 @@ I am a **software and hardware developer and researcher** with a PhD in Physics,
 ---
 
 ## 🌍 Let’s Connect
-
+-->
 <p align="center">
   <a href="mailto:ahmed.qamesh@kit.edu"><img src="https://img.shields.io/badge/Email-ahmed.qamesh%40kit.edu-red?style=flat-square"></a>
 </p>
