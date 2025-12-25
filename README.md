@@ -50,7 +50,7 @@ I am a **software developer and researcher** with a PhD in Physics, I specialize
 </p>
 
 ---
-
+<!--
 ⭐ *Focused on building reliable FPGA-based systems that bridge research and real-world applications.*
 
 
