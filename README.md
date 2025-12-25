@@ -17,9 +17,9 @@ I am a **software developer and researcher** with a PhD in Physics, I specialize
 
 | Category | Skills & Tools |
 |-----------|----------------|
+| **Programming** | C++, C, Python, C#, Java, MATLAB, Bash |
 | **HDL & FPGA Design** | VHDL, Verilog, Xilinx Vivado, QuestaSim, ISE, Modelsim |
 | **Verification & Testing** | Custom testbenches, simulation, lab validation |
-| **Programming** | C++, C, Python, C#, Java, MATLAB, Bash |
 | **Automation & Tools** | IntelliJ IDEA, Eclipse IDE, CodeLite, Shell, PowerShell, JSON, Gitlab, Github, CI/CD pipelines, MS-Office, Jira, Qt, GUI, SQL, PostgreSQL, Ethernet, TCP/IP, Autodesk Inventor, Altium, Latex |
 ---
 
