@@ -9,7 +9,7 @@
 ---
 
 ## 🧭 About Me
-I am a **software and hardware developer and researcher** with a PhD in Physics, I specialize in developing high-performance data acquisition (DAQ) systems and FPGA-based solutions for complex experimental environments. I possess deep expertise in C++ and VHDL, having developed robust readout software, real-time processing algorithms, and custom GUIs using the Qt framework. My experience spans the full development life cycle, from system architecture and FPGA synthesis to database management and rigorous hardware integration. I am adept at implementing modern networking interfaces such as TCP/IP and Ethernet to ensure reliable data flow in large-scale distributed systems.
+I am a **software developer and researcher** with a PhD in Physics, I specialize in developing high-performance data acquisition (DAQ) systems and FPGA-based solutions for complex experimental environments. I possess deep expertise in C++ and VHDL, having developed robust readout software, real-time processing algorithms, and custom GUIs using the Qt framework. My experience spans the full development life cycle, from system architecture and FPGA synthesis to database management and rigorous hardware integration. I am adept at implementing modern networking interfaces such as TCP/IP and Ethernet to ensure reliable data flow in large-scale distributed systems.
 
 ---
 
@@ -23,6 +23,7 @@ I am a **software and hardware developer and researcher** with a PhD in Physics,
 | **Automation & Tools** | IntelliJ IDEA, Eclipse IDE, CodeLite, Shell, PowerShell, JSON, Gitlab, Github, CI/CD pipelines, MS-Office, Jira, Qt, GUI, SQL, PostgreSQL, Ethernet, TCP/IP, Autodesk Inventor, Altium, Latex |
 ---
 
+<!--
 ## 🚀 What I Do
 
 - Develop and verify **FPGA firmware** for complex data acquisition and control systems.  
@@ -31,7 +32,7 @@ I am a **software and hardware developer and researcher** with a PhD in Physics,
 - Automate hardware testing and data acquisition using Python-based frameworks.  
 - Collaborate with cross-disciplinary teams to deliver scalable, reliable FPGA solutions.  
 
-<!--
+
 ---
 ##  List of My Geek Tutorials
 ### Data Analysis
