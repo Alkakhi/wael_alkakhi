@@ -2,8 +2,8 @@
 <h3 align="center">Software developer </h3>
 
 <p align="center">
-  <a href="https://github.com/ahmedqamesh"><img src="https://img.shields.io/badge/GitHub-@aqamesh-black?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/ahmedqamesh"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Qamesh-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Alkakhi"><img src="https://img.shields.io/badge/GitHub-@aqamesh-black?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/dr-wael-alkakhi-862199173/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Qamesh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
