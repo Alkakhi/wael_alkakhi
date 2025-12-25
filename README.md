@@ -20,7 +20,6 @@ I am a **software and hardware developer and researcher** with a PhD in Physics,
 | **HDL & FPGA Design** | VHDL, Verilog, Xilinx Vivado, QuestaSim, ISE, Modelsim |
 | **Verification & Testing** | Custom testbenches, simulation, lab validation |
 | **Programming** | C++, C, Python, C#, Java, MATLAB, Bash |
-| **Communication Protocols** | CAN, SPI, UART, Ethernet |
 | **Automation & Tools** | IntelliJ IDEA, Eclipse IDE, CodeLite, Shell, PowerShell, JSON, Gitlab, Github, CI/CD pipelines, MS-Office, Jira, Qt, GUI, SQL, PostgreSQL, Ethernet, TCP/IP, Autodesk Inventor, Altium, Latex |
 ---
 
